@@ -6,7 +6,7 @@ package pe.edu.upeu.app.dao;
 
 import java.util.List;
 import pe.edu.upeu.app.modelo.CategoriaTO;
-import pe.edu.upeu.app.modelo.MarcaTO;
+
 
 /**
  *
